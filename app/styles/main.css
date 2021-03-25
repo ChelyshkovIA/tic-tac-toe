@@ -1,2 +1,4 @@
-@import "playingField.css";
+@import "reset.css";
 @import "window.css";
+@import "playingField.css";
+@import "menu.css";
