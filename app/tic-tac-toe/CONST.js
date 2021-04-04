@@ -1,0 +1,11 @@
+export const CONST = {
+    EMPTY: 'EMPTY',
+    CROSS: 'CROSS',
+    CIRCLE: 'CIRCLE',
+
+    SINGLE_MODE: 'SINGLE_MODE',
+    MULTIPLAYER: 'MULTIPLAYER',
+
+    MACHINE: 'MACHINE',
+    USER: 'USER'
+}
